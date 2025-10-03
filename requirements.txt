@@ -1,0 +1,7 @@
+google.generativeai
+tqdm
+gradio
+numpy
+pandas
+scikit-learn
+google-genai

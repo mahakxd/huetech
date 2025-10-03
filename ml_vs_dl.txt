@@ -1,0 +1,3 @@
+Machine Learning (ML) is a subset of AI that learns patterns from data.  
+Deep Learning (DL) is a subset of ML that uses neural networks with many layers.  
+ML works well with structured data, while DL excels at images, audio, and text.

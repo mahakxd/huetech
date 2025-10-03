@@ -1,0 +1,3 @@
+Cybersecurity protects systems and data from attacks.  
+Common threats include phishing, malware, and ransomware.  
+Best practices: strong passwords, firewalls, and regular software updates.

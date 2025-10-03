@@ -1,0 +1,2 @@
+Software engineering applies systematic methods to software development.  
+The Software Development Life Cycle (SDLC) includes planning, designing, coding, testing, and deployment.

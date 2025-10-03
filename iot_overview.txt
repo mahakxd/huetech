@@ -1,0 +1,3 @@
+The Internet of Things (IoT) connects everyday devices to the internet.  
+Smart homes, wearable devices, and connected cars are examples.  
+IoT enables automation and data-driven insights.

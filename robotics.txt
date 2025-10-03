@@ -1,0 +1,2 @@
+Robotics combines engineering and computer science to design machines that assist humans.  
+Industrial robots improve manufacturing, while service robots help in healthcare and households.
